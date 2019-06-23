@@ -29,3 +29,5 @@ Tenemos una clase llamada persona con dos métodos para obtener el nombre y gene
 **5. Singleton:** Uno de los patrones mas simples en el diseño creacional y garantiza que una clase solamente tenga una instancia y un punto de acceso global a ella. En la siguiente implementación, encontramos un ejemplo en la cual se crean instancias para servir a un mismo objeto de cualquier tipo de los cuales nosotros queramos diseñar o ejecutar.
 
 [Código del patrón Singleton](https://github.com/NapsterZ4/Design-Patterns-in-Python/blob/master/design_patterns/venv/include/design_patterns/singleton.py)
+
+*Referencias: Giridhar, C. (2016). Learning Python Design Patterns. 2nd ed. Birminghan: PACKT Publishing, pp.83*
