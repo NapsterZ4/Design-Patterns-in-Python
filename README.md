@@ -5,6 +5,8 @@ Most commonly used python design patterns
 
 [Código del patrón Abstract Factory](https://github.com/NapsterZ4/Design-Patterns-in-Python/blob/master/design_patterns/venv/include/design_patterns/abstract_factory.py)
 
+*Referencias:* Williams, S. (2019). Recuperado de: https://github.com/faif/python-patterns/blob/master/patterns/creational/abstract_factory.py
+
 **2. Builder:** Este patrón, por su naturaleza realiza la construcción de representaciones por diferentes métodos, utilizamos un ejemplo en la compra de una computadora que tiene diferentes características, tomamos en cuenta la cantidad de memoria física (RAM), cantidad de espacio en disco duro y el modelo de tarjeta gráfica. Los cambios son los siguientes: Se introduce un constructor, un director o ingeniero en hardware y va realizando paso a paso la construcción de la computadora, una característica básica del patrón builder.
 
 [Código del patrón Builder](https://github.com/NapsterZ4/Design-Patterns-in-Python/blob/master/design_patterns/venv/include/design_patterns/builder.py)
