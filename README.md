@@ -34,7 +34,7 @@ Tenemos una clase llamada persona con dos métodos para obtener el nombre y gene
 
 *Referencias: Giridhar, C. (2016). Learning Python Design Patterns. 2nd ed. Birminghan: PACKT Publishing, pp.83*
 
-**5. Strategy:** El principal objetivo como lo indica su nombre, es elejir en función de ciertos parámetros el uso de estrategias o algoritmos que los encapsula y los hace intercambiables entre ellos. En el ejemplo extraído del libro de Head Firts en el primer capítulo, explica el funcionamiento de como un pato puede volar de diferentes formas y como el cliente podrá elejir la estrategia a implementar, las cuales se intercomunican por medio de interfaces. Las subclases son llamadas a través de las interfaces que crean instancias para decidir si el pato volará con sus alas, con un "Rocket" o bien, no podrá volar.
+**6. Strategy:** El principal objetivo como lo indica su nombre, es elejir en función de ciertos parámetros el uso de estrategias o algoritmos que los encapsula y los hace intercambiables entre ellos. En el ejemplo extraído del libro de Head Firts en el primer capítulo, explica el funcionamiento de como un pato puede volar de diferentes formas y como el cliente podrá elejir la estrategia a implementar, las cuales se intercomunican por medio de interfaces. Las subclases son llamadas a través de las interfaces que crean instancias para decidir si el pato volará con sus alas, con un "Rocket" o bien, no podrá volar.
 
 [Código del patrón Strategy](https://github.com/NapsterZ4/Design-Patterns-in-Python/blob/master/design_patterns/venv/include/design_patterns/strategy.py)
 
